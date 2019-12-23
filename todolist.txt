@@ -1,0 +1,2 @@
+salam in txt
+hello i am in terminal
